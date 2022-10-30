@@ -2,4 +2,4 @@
 
 # Used: Vite, TailwindCSS, Redux, RapidAPI
 
-# Website Address: https://hsjsaehun.github.io/musiq
+# Website Address: https://musiq-hsjaehun.netlify.app/
